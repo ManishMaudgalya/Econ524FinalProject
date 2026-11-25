@@ -1,0 +1,4 @@
+variable,observations,adf_statistic,adf_pvalue,adf_lags,kpss_statistic,kpss_pvalue,kpss_lags,interpretation
+z1_yield_curve,132,-1.6530538704543105,0.45544823122778927,5,1.6976539358328016,0.01,6,Both tests suggest nonstationarity
+z2_credit_spread,132,-3.332429369921955,0.013489666688973763,5,0.16043344894161995,0.1,6,Both tests consistent with level stationarity
+z3_unemployment_change,132,-9.177103858847106,2.3043236780209603e-15,1,0.07544470076722355,0.1,4,Both tests consistent with level stationarity
