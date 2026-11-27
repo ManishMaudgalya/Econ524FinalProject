@@ -1,7 +1,7 @@
 # Macro-Financial Drivers of Market Stress Regimes
 
 ## Project Overview
-
+123
 This project studies how US financial markets switch between **calm** and **stressed** regimes. We investigate whether macroeconomic and financial indicators can help predict when market stress begins, how long it persists, and whether these forecasts can improve investment decisions.
 
 Our main approach is a **two-state Time-Varying Transition Probability (TVTP) Markov-Switching AR model**. Unlike a standard Markov-Switching model with fixed transition probabilities, this model lets the probability of entering or remaining in a stressed regime change with economic conditions.
