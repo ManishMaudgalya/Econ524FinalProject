@@ -1,0 +1,9 @@
+series,n_obs,adf_statistic,adf_pvalue,adf_lags,kpss_statistic,kpss_pvalue,kpss_lags,interpretation
+log INDPRO (level),300,-3.294101549371989,0.015144203018798302,2,1.7386501287605813,0.01,10,Mixed / inconclusive; inspect the time plot
+"Z4 IP growth, MoM %",300,-12.821684095561068,6.134072035007828e-24,1,0.27438563798484383,0.1,3,Both tests consistent with level stationarity
+"Z4 alt: IP growth, YoY %",300,-3.0392699886973964,0.03138628673382588,12,0.4876230696994175,0.04445426358121228,10,Mixed / inconclusive; inspect the time plot
+log CPILFESL (level),300,-1.1566870470865642,0.6919450171253114,8,2.8165690780938744,0.01,10,Both tests suggest nonstationarity
+"Z5 core inflation, YoY %",300,-2.9053738220332805,0.04472665428256526,13,0.6318239767798012,0.01974327483819989,10,Mixed / inconclusive; inspect the time plot
+"Z5 alt: core inflation, MoM %",300,-4.630026349429105,0.00011367261687761434,7,0.48445893116143707,0.045166907396072736,2,Mixed / inconclusive; inspect the time plot
+Z6 fed funds level %,300,-2.421476097823807,0.13576645273546695,12,1.703640920425581,0.01,10,Both tests suggest nonstationarity
+Z6 alt: fed funds change (pp),300,-3.353041274262244,0.012667729672591475,11,0.06147069009844077,0.1,8,Both tests consistent with level stationarity
