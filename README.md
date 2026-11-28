@@ -1,6 +1,6 @@
 # Macro-Financial Drivers of Market Stress Regimes
 
-## Project Overview....
+## Project Overview
 
 This project studies how US financial markets switch between **calm** and **stressed** regimes. We investigate whether macroeconomic and financial indicators can help predict when market stress begins, how long it persists, and whether these forecasts can improve investment decisions.
 
